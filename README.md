@@ -15,8 +15,8 @@
 
 
 ### Conncet with me
-- [LinkedIn] (https://www.linkedin.com/in/sushant-regmi-7484b227b/)
-- [Facebook] (https://www.facebook.com/sushant.ronaldo563)
+- [LinkedIn](https://www.linkedin.com/in/sushant-regmi-7484b227b/)
+- [Facebook](https://www.facebook.com/sushant.ronaldo563)
 
 
 
