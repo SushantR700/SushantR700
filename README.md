@@ -1,25 +1,43 @@
-# HELLO 
-#I AM Sushant
+### Sushant Regmi
+ - Hello, I am Sushant Regmi, flutter intern currently in Thulo Technology,Pokhara,Nepal.
+ - I am interested in developing mobile applicatio, and I am highly interested in Data Science.
+ - I have previously developed android apps using Kotlin.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-<p>
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+### My works 
+  - Foodgasm (Food delivery Application) using kotlin as a part of college project.
 
-</p>
 
-<p>
-   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+### Certificates by IBM
+ - What is Data Science ?
+ - Data Science Tools
+ - Data Science Methodology
+
+
+### Conncet with me
+- [LinkedIn] https://www.linkedin.com/in/sushant-regmi-7484b227b/
+- [Facebook] https://www.facebook.com/sushant.ronaldo563
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushantR700&layout=compact&theme=cobalt&hide_border=true" />
+### Education
+- Syangja Higher Secondary School [SEE, 2073] 
+- Tribhuwan Adarsha Model School [+2, 2076]
+- Soch college of IT,Pokhara [Bsc. CSIT]  2076-Present  
+
+
+### Experience
+- Flutter internship @Thulo Technology,Pokhara
+
+
+### Skills
+- Dart
+- Java
+- Kotlin
+- C
+- C++
+- Android Development using Kotlin
+- Flutter
+
+
+ 
