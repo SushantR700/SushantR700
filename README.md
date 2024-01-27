@@ -21,9 +21,9 @@
 
 
 ### Education
-- Syangja Higher Secondary School [SEE, 2073] 
-- Tribhuwan Adarsha Model School [+2, 2076]
-- Soch college of IT,Pokhara [Bsc. CSIT]  2076-Present  
+- Syangja Higher Secondary School [SEE, 2016] 
+- Tribhuwan Adarsha Model School [+2, 2019]
+- Soch college of IT,Pokhara [Bsc. CSIT]  2019-Present  
 
 
 ### Experience
