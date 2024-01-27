@@ -34,6 +34,7 @@
 - Dart
 - Java
 - Kotlin
+- Python
 - C
 - C++
 - Android Development using Kotlin
