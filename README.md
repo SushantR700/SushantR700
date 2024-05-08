@@ -21,6 +21,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/sushant_regmi77#gh-dark-mode-only)
 
 ## I'm currently learning :
+<img alt = 'Flutter' align='left' src ='https://img.shields.io/badge/flutter-47D1FD?style=for-the-badge&logo=flutter&logoColor=white'/>
 <img alt = 'NodeJS' align='left' src ='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'/>
 <img alt = 'express' align='left' src = 'https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'/>
 <img alt = 'mongodb' src = 'https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white'/>
