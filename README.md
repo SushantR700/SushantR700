@@ -2,7 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SushantRo7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SushantRo7)
 
-<a href="https://www.buymeacoffee.com/Cyberbandit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 ## I'm a Student, Programmer, Data science enthusiast.
